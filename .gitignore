@@ -1,0 +1,22 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+
+# --- Streamlit cache ---
+.streamlit/cache/
+.streamlit/**/.DS_Store
+
+# --- OS / editor junk ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
