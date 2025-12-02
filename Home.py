@@ -10,7 +10,7 @@ st.write("""
     This app provides an interactive platform to explore the famous Iris dataset.
          You can visualize the distribution of data, explore relationships between features, and even make predictions on new data!
 """)
-st.image('iris.jpg', caption="The Iris Flower")
+st.image('imgs/iris.jpg', caption="The Iris Flower")
 
 
 
