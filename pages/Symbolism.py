@@ -32,8 +32,6 @@ with tab2:
 with tab3:
     st.write('Iris was the name of the rainbow goddess in greek mythology')
 
-    if st.button('Click Me for a mini-party'):
-        st.balloons()
 
 
 #container
@@ -43,3 +41,6 @@ container.write('Arke had her wings torn out by Zeus for her betrayal which over
 st.write('Iris traveled by rainbow between the realms 🌈')
 
 container.write('Iris remained in good standing and served the nectar to the gods')
+
+if st.button('Click to Celebrate Making it to the End!'):
+        st.balloons()
